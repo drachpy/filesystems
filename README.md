@@ -16,3 +16,7 @@ NetBSD 7.0
     .cshrc    .profile    altroot/    bin/    boot    boot.cfg    cdrom/    dev/    etc/    home/    kern/    lib/    libdata/    libexec/    mnt/    netbsd*    prov/    rescue/    root/    sbin/    stand/    tmp/    usr/    var/
 
 
+Debian 8.2
+
+    
+    bin/    boot/    dev/    etc/    home/    initrd.img@    lib/    lib64/    lost+found/    media/    mnt/    opt/    proc/    root/    run/    sbin/    srv/    sys/    tmp/    usr/    var/    vmlinuz@
