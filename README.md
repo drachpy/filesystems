@@ -17,6 +17,7 @@ FreeBSD 10.2
 
 
 OSX 10.8.5
+
     .DS_Store    .Spotlight-V100/    .Trashes/    .file    .fseventsd/    .vol/    Applications/    Library/    Network/    System/    Users/    Volumes/    bin/    cores/    dev/    etc@    home/    mach_kernel    net/    private/    sbin/    tmp@    usr/    var@
 
 
